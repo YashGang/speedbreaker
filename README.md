@@ -1,5 +1,5 @@
 # 🛠️ Fine-tuned Yolo-V5n model on custom dataset ( speed-bumps )
-### ✴️ Check here -> https://a-b-h-a-y-s-h-i-n-d-e.github.io/yolov5_speed_bumps/  
+### ✴️ Check here -> https://yashgang.github.io/speedbreaker/
 
 
 ## 🏗️ Architecture
